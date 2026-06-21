@@ -1,2 +1,14 @@
 # livejiangnan-guide
-HTML page archive and documentation
+
+公开页面文件归档
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
